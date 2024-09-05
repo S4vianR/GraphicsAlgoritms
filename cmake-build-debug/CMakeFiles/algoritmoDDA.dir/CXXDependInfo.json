@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "GNU",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/reuben/CLionProjects/algoritmoDDA/cmake-build-debug",
+	"dir-cur-src" : "/home/reuben/CLionProjects/algoritmoDDA",
+	"dir-top-bld" : "/home/reuben/CLionProjects/algoritmoDDA/cmake-build-debug",
+	"dir-top-src" : "/home/reuben/CLionProjects/algoritmoDDA",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/reuben/CLionProjects/algoritmoDDA/cmake-build-debug/CMakeFiles/algoritmoDDA.dir"
+}

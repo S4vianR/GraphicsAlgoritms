@@ -1,0 +1,21 @@
+# ninja log v6
+0	23	1725558141927920103	build.ninja	335fe267f97232fb
+126	509	1725560326430480016	CMakeFiles/algoritmoDDA.dir/main.cpp.o	8ff3a3fddbb97a30
+122	126	1725560326423813252	CMakeFiles/algoritmoDDA.dir/main.cpp.o.modmap	bfa8330716bd32dc
+122	126	1725560326423813252	/home/reuben/CLionProjects/algoritmoDDA/cmake-build-debug/CMakeFiles/algoritmoDDA.dir/CXXModules.json	bfa8330716bd32dc
+509	585	1725560326813818931	algoritmoDDA	77e5afcbbf01dc3
+122	126	1725560326423813252	CMakeFiles/algoritmoDDA.dir/CXX.dd	bfa8330716bd32dc
+2	97	1725556767837379762	CMakeFiles/algoritmoDDA.dir/ColorMap.cpp.o.ddi	c2ef003f429bcda8
+1	122	1725560326303811505	CMakeFiles/algoritmoDDA.dir/main.cpp.o.ddi	6d08294d9ce6df29
+1	123	1725560337110630911	CMakeFiles/algoritmoDDA.dir/main.cpp.o.ddi	6d08294d9ce6df29
+123	127	1725560337233965930	CMakeFiles/algoritmoDDA.dir/CXX.dd	bfa8330716bd32dc
+123	127	1725560337233965930	/home/reuben/CLionProjects/algoritmoDDA/cmake-build-debug/CMakeFiles/algoritmoDDA.dir/CXXModules.json	bfa8330716bd32dc
+123	127	1725560337233965930	CMakeFiles/algoritmoDDA.dir/main.cpp.o.modmap	bfa8330716bd32dc
+127	521	1725560337237299308	CMakeFiles/algoritmoDDA.dir/main.cpp.o	8ff3a3fddbb97a30
+521	597	1725560337630638016	algoritmoDDA	77e5afcbbf01dc3
+1	121	1725560363000959483	CMakeFiles/algoritmoDDA.dir/main.cpp.o.ddi	6d08294d9ce6df29
+121	125	1725560363120960885	CMakeFiles/algoritmoDDA.dir/CXX.dd	bfa8330716bd32dc
+121	125	1725560363120960885	/home/reuben/CLionProjects/algoritmoDDA/cmake-build-debug/CMakeFiles/algoritmoDDA.dir/CXXModules.json	bfa8330716bd32dc
+121	125	1725560363120960885	CMakeFiles/algoritmoDDA.dir/main.cpp.o.modmap	bfa8330716bd32dc
+125	514	1725560363127627629	CMakeFiles/algoritmoDDA.dir/main.cpp.o	8ff3a3fddbb97a30
+514	591	1725560363514298814	algoritmoDDA	77e5afcbbf01dc3
