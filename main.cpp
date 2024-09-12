@@ -9,7 +9,7 @@ void teclado(unsigned char c, int i, int arg);
 inline int customRound(const float a) { return int(a + 0.5); }
 
 // Variables globales
-int anchopantalla = 1280, altopantalla = 800;
+int anchopantalla = 600, altopantalla = 800;
 
 // Set a pixel
 void setPixel(int x, int y) {

@@ -30188,7 +30188,7 @@ void teclado(unsigned char c, int i, int arg);
 inline int customRound(const float a) { return int(a + 0.5); }
 
 
-int anchopantalla = 1280, altopantalla = 800;
+int anchopantalla = 600, altopantalla = 800;
 
 
 void setPixel(int x, int y) {
@@ -30274,19 +30274,16 @@ void mostrar(void) {
 
 
     glColor3f(1.0, 0.0, 0.0);
-    glLineWidth(5.0);
     lineDDA(100, 100, 300, 500);
 
     glColor3f(0.0, 0.0, 1.0);
-    glLineWidth(5.0);
     lineBresenham(150, 100, 350, 500);
 
     glColor3f(2.0 / 255.0, 48.0 / 255.0, 32.0 / 255.0);
-    glLineWidth(5.0);
     glBegin(
-# 91 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp" 3 4
+# 88 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp" 3 4
            0x0001
-# 91 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp"
+# 88 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp"
                    );
         glVertex2i(200, 100);
         glVertex2i(400, 500);
@@ -30299,9 +30296,9 @@ void mostrar(void) {
 void inicializacion(void) {
     glClearColor(1.0, 1.0, 1.0, 0.0);
     glMatrixMode(
-# 102 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp" 3 4
+# 99 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp" 3 4
                 0x1701
-# 102 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp"
+# 99 "/home/reuben/CLionProjects/algoritmoDDA/main.cpp"
                              );
     gluOrtho2D(0.0, anchopantalla, 0.0, altopantalla);
 }
